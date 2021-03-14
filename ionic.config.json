@@ -1,0 +1,7 @@
+{
+  "name": "CloudStorage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
